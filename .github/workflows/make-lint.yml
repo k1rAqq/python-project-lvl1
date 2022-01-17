@@ -1,4 +1,4 @@
-name: good-push
+name: make-lint
 on: push
 jobs:
        my-job:
