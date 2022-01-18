@@ -9,4 +9,4 @@ jobs:
         with:
           node-version: '14'
       - name: my-step
-        run: make lint
+        run: poetry run flake8 brain_games
