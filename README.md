@@ -4,4 +4,4 @@
 
 
 
-![example workflow](https://github.com/k1rAqq/python-project-lvl1/blob/master/.github/workflows/make_lint/badge.svg)
+![example workflow](https://github.com/k1rAqq/python-project-lvl1/actions/workflows/make_lint.yml/badge.svg)
