@@ -1,4 +1,4 @@
-name: make lint
+name: make_lint
 on: [push]
 jobs:
   build:
